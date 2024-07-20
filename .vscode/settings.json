@@ -52,5 +52,5 @@
         "Temp/": true
     },
     "dotnet.preferCSharpExtension": true,
-    "dotnet.defaultSolution": "ThreeLineAttack_game.sln"
+    "dotnet.defaultSolution": "ThreeLineAttack_game_Demo.sln"
 }
